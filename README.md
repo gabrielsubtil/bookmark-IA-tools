@@ -16,6 +16,6 @@ Um repositório dedicado à coleta e organização de links para ferramentas rel
 | https://civitai.com/| descrição | txt2img |
 | https://github.com/camenduru/stable-diffusion-webui-colab/blob/main/README.md| descrição | Google Colab |
 | https://replicate.com/methexis-inc/img2prompt| descrição | txt2img |
-| https://chrome.google.com/webstore/detail/webchatgpt/lpfemeioodjbpieminkklglpmhlngfcn/related| | descrição | Tool Chatgpt |
+| https://chrome.google.com/webstore/detail/webchatgpt/lpfemeioodjbpieminkklglpmhlngfcn/related | descrição | Tool Chatgpt |
 
 
